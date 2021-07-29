@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @tkprkl
-- 👀 I’m interested in open source, c64, msx, etc. coding. Also decompiling and all kinds of hacking.
+- 👀 I’m interested in open source, and coding in general. Coding has been my hobby since 1992.
 - 🌱 I’m currently learning c++, python, assembler
 - 💞️ Amiga, msx, c64, linux
 - 📫 There is no way to reach me.
